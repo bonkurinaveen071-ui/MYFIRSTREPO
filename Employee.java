@@ -7,6 +7,6 @@ public class Employee {
     public static add(){
 		int a=0;
         int b=0;
-        System.out.println();
+        System.out.println(a+b);
 	}
 }
