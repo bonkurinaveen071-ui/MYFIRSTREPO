@@ -4,4 +4,9 @@ public class Employee {
         System.out.println("bye");
 		System.out.println("bye");
 	}
+    public static add(){
+		int a=0;
+        int b=0;
+        System.out.println();
+	}
 }
